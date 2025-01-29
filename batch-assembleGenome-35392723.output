@@ -1,0 +1,8 @@
+Starting our analysis Sun Apr 16 15:01:11 EDT 2023
+Escherichia coli SRR reads to process: SRR24007554
+Loading our BINF6308 Anaconda environment.
+Downloading SRR24007554 reads Sun Apr 16 15:01:14 EDT 2023
+Trimming SRR24007554 reads Sun Apr 16 15:01:50 EDT 2023
+Assembling genome from trimmed SRR24007554 reads Sun Apr 16 15:02:06 EDT 2023
+Analyzing genome assembly Sun Apr 16 15:43:40 EDT 2023
+Assembly and analysis complete Sun Apr 16 15:44:01 EDT 2023
